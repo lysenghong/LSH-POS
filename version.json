@@ -1,6 +1,6 @@
 {
-  "version": "1.0.0",
+  "version": "1.0.1",
   "changelog": "- ធ្វើបច្ចុប្បន្នភាពអត្រាប្តូរប្រាក់ ACLEDA Bank ស្វ័យប្រវត្តិ\n- បន្ថែមមុខងារកំណត់ទីតាំង Backup និង Restore 1-Click\n- កែលម្អល្បឿនស្កេនបាកូដ និងកាត់ស្តុក",
   "auto_update": false,
-  "exe_url": "https://github.com/lysenghong/LSH-POS/releases/latest/download/LSHPOS.exe"
+  "exe_url": "https://github.com/lysenghong/LSH-POS/releases/latest/download/LSHPOS_update.zip"
 }
