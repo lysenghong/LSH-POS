@@ -1,6 +1,6 @@
 {
-  "version": "1.0.2",
-  "changelog": "- update to v1.0.2",
+  "version": "1.0.3",
+  "changelog": "- update to v1.0.3",
   "auto_update": false,
   "exe_url": "https://github.com/lysenghong/LSH-POS/releases/latest/download/LSHPOS_update.zip"
 }
